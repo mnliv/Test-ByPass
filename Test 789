@@ -42,6 +42,6 @@
        		</requirements>
 		<expirationdate><![CDATA[]]></expirationdate>
 		<remotetype><![CDATA[IN_PERSON]]></remotetype>
-		<workschedule><![CDATA[FULL_TIME]]></workschedule>
+		<workschedule><![CDATA[]]></workschedule>
 	</job>
 </source>
