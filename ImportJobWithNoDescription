@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<source>
+	<job>
+		<referencenumber><![CDATA[bac2055566ccf0dea55357c3e3555f38865e36e3686611111536]]></referencenumber>
+		<title><![CDATA[JobAutoTest2203]]></title>
+		<description><![CDATA[]]></description>
+		<country><![CDATA[United States]]></country>
+		<state><![CDATA[New York]]></state>
+		<city><![CDATA[Corona]]></city>
+		<postalcode><![CDATA[12345]]></postalcode>
+		<company><![CDATA[Amazon Warehouse]]></company>
+		<date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+		<url><![CDATA[https://us.hrm.tc/pj/fjjHDqxD5E38bh-ia73n8LDY8ygHN9a7mIsvBRdxzSdEq-j1GBMJCEErfIbQd8kV_7FEP6Ug97Il0BpLu2DwRCXKIx0vXSTL-e-yovRQ7PwFQzhO3sSZylXUSg3evt08lToGBNMOdTVETNJbt2sSk-7yF-QkBX1u8vx2_uAoToKu7Fok3vnd28MmIAI6_puFDjqMgcexodG6aW-7rv6JpYhMVCJTPmDnZ4SK85b0w7nYwDvfhYvZ-gp8LfyGO_gscEJJQzG3PO8kJJh5flU525JZc0tOU2jbyezRYRtsdCfGydfaUffH8v01-b5N9L6t1EXsqXsmHmS0G_MQW1tA1Y3hGMcdgClALH0bCi9a4roRCOJx2kLDZ-B-fWs9Sot4UjtMoSV8WlZec6hzKmfkl9US_fRYy8WkDPYdp-9NT7OPN8Nk4rjYkRS91QzrFv39cJ12o0Ur97xynMUdWWXEEvN-l4MewjI6H21cehqv6p8DL4KTIvClrcfoW9VBPt0Oz1dc04cSp_hX8dbB7w_G17IKcZ9rZLvt60bwMBuVRHobk9kn2qjuaTHgTCguiMWtx8lkI6I-EUj4siok_0MqouI5uJTiAsDPXh40fApWrDcm_vwoa-xqkYbel69ZwM_MnmRfGnXb5EtrVd_KdGH5uXYFJtPTPcFTkDJsSFaRhGgdx9CiWkH4RVXhERT74zmERsNieNI=?pjc=us]]></url>
+		<cpc><![CDATA[10]]></cpc>
+		<major_category><![CDATA[Transportation & Logistics]]></major_category> 
+		<streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+		<jobtype><![CDATA[FULL_TIME]]></jobtype>
+		<compensation_interval><![CDATA[]]></compensation_interval>
+		<compensation_min><![CDATA[]]></compensation_min>
+		<compensation_max><![CDATA[]]></compensation_max>
+		<compensation_currency><![CDATA[]]></compensation_currency>
+		<benefit>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[401k with Match]]></benefit2>
+			<benefit3><![CDATA[Promote from Within]]></benefit3>
+		</benefit>
+		<experience><![CDATA[3]]></experience>
+		<education><![CDATA[N/A]]></education>
+		<publisher><![CDATA[Amazon Warehouse]]></publisher>
+		<publisherurl>https://us.hrm.tc/pj/fjjHDqxD5E38bh-ia73n8LDY8ygHN9a7mIsvBRdxzSdEq-j1GBMJCEErfIbQd8kV_7FEP6Ug97Il0BpLu2DwRCXKIx0vXSTL-e-yovRQ7PwFQzhO3sSZylXUSg3evt08lToGBNMOdTVETNJbt2sSk-7yF-QkBX1u8vx2_uAoToKu7Fok3vnd28MmIAI6_puFDjqMgcexodG6aW-7rv6JpYhMVCJTPmDnZ4SK85b0w7nYwDvfhYvZ-gp8LfyGO_gscEJJQzG3PO8kJJh5flU525JZc0tOU2jbyezRYRtsdCfGydfaUffH8v01-b5N9L6t1EXsqXsmHmS0G_MQW1tA1Y3hGMcdgClALH0bCi9a4roRCOJx2kLDZ-B-fWs9Sot4UjtMoSV8WlZec6hzKmfkl9US_fRYy8WkDPYdp-9NT7OPN8Nk4rjYkRS91QzrFv39cJ12o0Ur97xynMUdWWXEEvN-l4MewjI6H21cehqv6p8DL4KTIvClrcfoW9VBPt0Oz1dc04cSp_hX8dbB7w_G17IKcZ9rZLvt60bwMBuVRHobk9kn2qjuaTHgTCguiMWtx8lkI6I-EUj4siok_0MqouI5uJTiAsDPXh40fApWrDcm_vwoa-xqkYbel69ZwM_MnmRfGnXb5EtrVd_KdGH5uXYFJtPTPcFTkDJsSFaRhGgdx9CiWkH4RVXhERT74zmERsNieNI=?pjc=us</publisherurl>
+		<lastBuildDate><![CDATA[]]></lastBuildDate>
+		<radius><![CDATA[20]]></radius>
+		<sourcename><![CDATA[]]></sourcename>
+		<email><![CDATA[example@abccorp.com]]></email>
+		<minor_category><![CDATA[CDL A Local Company Driver]]></minor_category>
+		<salary_from><![CDATA[500]]></salary_from>
+		<salary_to><![CDATA[1000]]></salary_to>
+		<salary_type><![CDATA[DAILY]]></salary_type>
+		<requirements>
+            		<requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+				<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
+       		</requirements>
+		<expirationdate><![CDATA[]]></expirationdate>
+		<remotetype><![CDATA[REMOTE]]></remotetype>
+		<workschedule><![CDATA[FULL_TIME]]></workschedule>
+    <resumeoption><![CDATA[REQUIRED]]></resumeoption>
+	</job>
+</source>
