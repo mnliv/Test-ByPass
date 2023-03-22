@@ -4,9 +4,9 @@
     <publisherurl>insert gotoro app url for feed here</publisherurl>
     <lastBuildDate>Fri, 10 Dec 2021 22:49:39 GMT</lastBuildDate>
     <job>
-        <title><![CDATA[Sales Executive 1603_01]]></title>----- can be the same and repeat -------
+        <title><![CDATA[Sales Executive 2203_01]]></title>----- can be the same and repeat -------
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[9839e9jiudbhdjkhdfkbhd78576897823131]]></referencenumber>
+        <referencenumber><![CDATA[9839e9jiudbhdjkhdfkb9999hd785768978023131]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=unique123131&amp;source=Indeed]]>
         </url>
@@ -43,9 +43,9 @@
         <resumeoption><![CDATA[REQUIRED]]></resumeoption>
     </job>
     <job>
-        <title><![CDATA[Sales Executive 1603_02]]></title>
+        <title><![CDATA[Sales Executive 2203_02]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[unirekjejkikjdee123131]]></referencenumber>
+        <referencenumber><![CDATA[unirekjejk9999ikjdee123131]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=unique123131&amp;source=Indeed]]>
         </url>
@@ -83,9 +83,9 @@
         <resumeoption><![CDATA[REQUIRED]]></resumeoption>
     </job>
     <job>
-        <title><![CDATA[Sales Executive 1603_03]]></title>
+        <title><![CDATA[Sales Executive 2203_03]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[unique123131]]></referencenumber>
+        <referencenumber><![CDATA[unique123999131]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=unique123131&amp;source=Indeed]]>
         </url>
@@ -122,9 +122,9 @@
         <resumeoption><![CDATA[REQUIRED]]></resumeoption>
     </job>
     <job>
-        <title><![CDATA[Sales Executive 1603_04]]></title>
+        <title><![CDATA[Sales Executive 2203_04]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[uniqedgjjkekdjeuuye5555123131]]></referencenumber>
+        <referencenumber><![CDATA[uniqedgjjkekdjeuuye5555555123131]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=unique123131&amp;source=Indeed]]>
         </url>
@@ -161,9 +161,9 @@
         <resumeoption><![CDATA[REQUIRED]]></resumeoption>
     </job>
     <job>
-        <title><![CDATA[Sales Executive 1603_05]]></title>
+        <title><![CDATA[Sales Executive 2203_05]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[unique123131]]></referencenumber>
+        <referencenumber><![CDATA[uniqedgjjkekdjeuuye555512313453]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=unique123131&amp;source=Indeed]]>
         </url>
@@ -195,7 +195,7 @@
         <experience><![CDATA[5+ years]]></experience>
         <expirationdate><![CDATA[Mon, 08 Nov 2021]]></expirationdate>
         <remotetype><![CDATA[COVID-19]]></remotetype>
-        <workschedule><![CDATA[]]></workschedule>
+        <workschedule><![CDATA[Full Time]]></workschedule>
         <radius><![CDATA[25]]></radius>
         <resumeoption><![CDATA[REQUIRED]]></resumeoption>
     </job>
