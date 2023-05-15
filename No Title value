@@ -39,8 +39,8 @@
 		<requirements>
     </requirements>
 		<expirationdate><![CDATA[]]></expirationdate>
-		<remotetype><![CDATA[]]></remotetype>
-		<workschedule><![CDATA[]]></workschedule>
+		<remotetype><![CDATA[REMOTE]]></remotetype>
+		<workschedule><![CDATA[FULL_TIME]]></workschedule>
     <resumeoption><![CDATA[]]></resumeoption>
 	</job>
 </source>
