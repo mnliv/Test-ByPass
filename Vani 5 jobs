@@ -41,8 +41,8 @@
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
-        <cpc/>
-    </job>
+       <cpc><![CDATA[10]]><cpc/>
+      </job>
     <job>
         <title>
             <![CDATA[Mechanic Diesel Technician]]>
