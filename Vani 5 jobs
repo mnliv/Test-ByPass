@@ -83,7 +83,7 @@
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
-        <cpc/>
+         <cpc><![CDATA[10]]><cpc/>
     </job>
     <job>
         <title>
@@ -125,6 +125,6 @@
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
-        <cpc/>
+      <cpc><![CDATA[10]]><cpc/>  
     </job>
     </source>
