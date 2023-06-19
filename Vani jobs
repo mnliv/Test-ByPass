@@ -41,7 +41,7 @@
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
-        <cpc/>
+       <cpc><![CDATA[1]]></cpc>
     </job>
     <job>
         <title>
@@ -83,7 +83,7 @@
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
-        <cpc/>
+       <cpc><![CDATA[1]]></cpc>
     </job>
     <job>
         <title>
@@ -125,7 +125,7 @@
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
-        <cpc/>
+    <cpc><![CDATA[1]]></cpc>
     </job>
     <job>
         <title>
@@ -167,7 +167,7 @@
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
-        <cpc/>
+       <cpc><![CDATA[1]]></cpc>
     </job>
     <job>
         <title>
@@ -209,7 +209,7 @@
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
-        <cpc/>
+        <cpc><![CDATA[1]]></cpc>
     </job>
     <job>
         <title>
@@ -251,6 +251,6 @@
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
-        <cpc/>
+       <cpc><![CDATA[1]]></cpc>
     </job>
     </source>
